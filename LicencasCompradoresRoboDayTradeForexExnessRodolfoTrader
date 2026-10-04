@@ -1,0 +1,25 @@
+{
+  "dados dos meus clientes robo day trade forex abaixo": [
+    {
+      "whatsapp": "32920006774",
+      "chave": "ROBO-1MES-8842",
+      "validade": "2026-11-03",
+      "plano": "1 Mês",
+      "ativo": true
+    },
+    {
+      "whatsapp": "11999998888",
+      "chave": "ROBO-2MES-1029",
+      "validade": "2026-12-03",
+      "plano": "2 Meses",
+      "ativo": true
+    },
+    {
+      "whatsapp": "21988887777",
+      "chave": "ROBO-3MES-5544",
+      "validade": "2027-01-03",
+      "plano": "3 Meses",
+      "ativo": true
+    }
+  ]
+}
